@@ -1,3 +1,3 @@
 # danmakuTest
 
-Testing Touhou style danmaku in raylib
+Testing Touhou style danmaku with raylib
